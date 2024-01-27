@@ -1,0 +1,18 @@
+1. 2d arrya
+2. all ement empty
+3. if empty bool =false iterating over whole board
+4 . func()
+	check if any of 8 possbile win conditions are satisfied
+5. showboard()
+6. startgame()
+	random player first turn
+	infintite loop that ends when game over
+	update spot with X or O
+	print winner name
+	check board empty/filled
+	if filled then print Draw
+
+7. show final view
+
+
+ 
